@@ -1,3 +1,5 @@
+![CI](https://github.com/pranaysapkale007/api-playwright-pytest-framework/actions/workflows/ci.yml/badge.svg)
+
 # Playwright + Python API Automation Framework
 
 ## 📌 Overview
