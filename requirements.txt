@@ -1,0 +1,4 @@
+pytest
+paywright
+pytest-html
+jsonschema

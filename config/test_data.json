@@ -1,0 +1,14 @@
+{
+  "create_user": {
+    "name": "Pranay",
+    "job": "QA Automation"
+  },
+  "update_user": {
+    "name": "Pranay Updated",
+    "job": "Senior QA"
+  },
+  "invalid_login": {
+    "email": "wrong@example.com",
+    "password": "badpassword"
+  }
+}

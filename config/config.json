@@ -1,0 +1,6 @@
+{
+    "base_url": "https://reqres.in",
+    "headers": {
+        "Content-Type": "application/json"
+    }
+}
