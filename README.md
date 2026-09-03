@@ -1,4 +1,4 @@
-![CI](https://github.com/<your-username>/api-framework/actions/workflows/ci.yml/badge.svg)
+![CI](https://github.com/pranaysapkale007/api-playwright-pytest-framework/actions/workflows/ci.yml/badge.svg)
 
 # Playwright + Python API Automation Framework
 
