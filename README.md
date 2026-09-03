@@ -1,3 +1,5 @@
+![CI](https://github.com/<your-username>/api-framework/actions/workflows/ci.yml/badge.svg)
+
 # Playwright + Python API Automation Framework
 
 ## 📌 Overview
